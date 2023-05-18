@@ -1,0 +1,15 @@
+*{
+    font-family: 'Wix Madefor Text', sans-serif;
+}
+
+.avatar {
+  vertical-align: middle;
+  width: 35px;
+  height: 35px;
+  border-radius: 50%;
+}
+
+.unauth-key-card{
+    border: 2px solid #1DA1F2 !important;
+    background-color: #1da0f27a;
+}
